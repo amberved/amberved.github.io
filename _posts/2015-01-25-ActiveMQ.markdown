@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "ActiveMQ 101"
+date:   2015-12-25 01:00:00 -0700
+categories: Java based Messaging Queue using ActiveMQ
+---
+Example for 
+
+ActiveMQ Async sender[ActiveMQSender] and listner[ActiveMQListner]
+& also find SSL support  
+
+[ActiveMQListner]: https://github.com/amberved/ActiveMQListener
+[ActiveMQSender]: https://github.com/amberved/ActiveMQSender
+
