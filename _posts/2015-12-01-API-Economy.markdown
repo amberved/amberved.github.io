@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: "2015-12-25 01:00:00 -0700"
 categories: API Economy
