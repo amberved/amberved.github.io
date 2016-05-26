@@ -31,6 +31,6 @@ The post The Secret to Amazons Success Internal [APIs](http://apievangelist.com/
 
 
 Excellent Video
-[![Everything Is AWESOME](http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Everything Is AWESOME](https://www.youtube.com/watch?v=NDWSr5dJejw/120.jpg)](https://www.youtube.com/watch?v=NDWSr5dJejw "SOA vs C Struct")
 
 
