@@ -29,3 +29,8 @@ These Notes have been taken from:
 
 The post The Secret to Amazons Success Internal [APIs](http://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/).
 
+
+Excellent Video
+[![Everything Is AWESOME](http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
+
